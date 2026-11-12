@@ -1,0 +1,4 @@
+case,outages,problem_outages,voltage,line,trafo,not_converged,worst_loading_pct
+Base case (no data center),597,29,10,13,6,1,162.7
+Data center + 150 MVAr cap,597,39,11,19,10,2,167.2
+Data center + 200 MVAr cap,597,38,9,18,10,2,162.7
